@@ -64,6 +64,6 @@ Dataset: P. Cortez, A. Cerdeira, F. Almeida, T. Matos, and J. Reis. Modeling win
 Libraries: Thanks to the developers and contributors of Flask, Scikit-learn, Pandas, and NumPy.
 Rights
 
-All rights reserved by Gangothri. 
+
 
 Unauthorized copying of this project, via any medium, is strictly prohibited. Proprietary and confidential.
